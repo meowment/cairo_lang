@@ -31,7 +31,7 @@ The root directory holds a dedicated Dockerfile, which automatically builds the 
 the unit tests on a simulated Ubuntu 18.04 environment.
 You should have docker installed (see https://docs.docker.com/get-docker/).
 
-Clone the repository and initialize the git submodules using:
+Clone the repository and initialize the git submodules using this command:
 
 ```bash
 > git clone git@github.com:starkware-libs/cairo-lang.git
